@@ -1,0 +1,2 @@
+<hr/>
+Fot på sidan
