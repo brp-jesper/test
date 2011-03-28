@@ -9,10 +9,10 @@ class HelloController {
     def html = {
       render {
         h1('hello grai ls')
-        p('Lite html h‰r')
+        p('Lite html h√§r')
         ul {
           li "ett"
-          li "tvÂ"
+          li "tv√•"
           li "tre"
         }
       }
@@ -27,7 +27,7 @@ class HelloController {
           }
           person(id:2) {
             name 'Jesper'
-            street 'Bjˆrkdungev‰gen 15'
+            street 'Bj√∂rkdungev√§gen 15'
           }
         }
       }
