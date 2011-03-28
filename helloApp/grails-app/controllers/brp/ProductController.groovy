@@ -10,8 +10,6 @@ class ProductController {
 
     def list = {
 
-
-
       [products:Product.list()]}
 
     def show = {
