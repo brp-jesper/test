@@ -14,6 +14,8 @@ class ProductController {
 
 
 
+
+
     def show = {
         def product = Product.read(params.id as int)
         [product: product]
